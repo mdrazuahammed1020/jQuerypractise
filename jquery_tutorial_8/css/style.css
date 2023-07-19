@@ -1,0 +1,32 @@
+.beautify{
+  background-color: yellow;
+  font-weight: bold;
+  color: green;
+  padding-left: 120px;
+  
+}
+
+.blue_border{
+  border-style: 1px solid #000;
+  border-color: blue;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  color: #fff;
+  background-color: olivedrab;
+  
+}
+
+.important{
+  color: red;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#super{
+  border-style: dotted;
+  border-color: red;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
