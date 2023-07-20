@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boxes {
+    margin: 30px auto;
+
+}
+.box1 {
+    height: 230px;
+    width: 70%;
+    /* border-radius: 20px; */
+    /* border: 2px solid #000; */
+    background-color: #A076F9;
+    padding: 20px 30px;
+}
+
+.color-change {
+    background-color: #D7BBF5;
+}
+
+.header-txt{
+    text-align: center;
+    margin-top: 10px;
+    color: #fff;
+    border: 3px solid #fff;
+    padding: 20px 10px;
+}
+
+input {
+    display: block;
+    padding: 20px 10px;
+    background-color: #6528F7;
+    color: #fff;
+    border-radius: 5px;
+}
